@@ -65,7 +65,7 @@
 
 .arrowBack {
     position:fixed;
-    bottom: 100px;
+    bottom: 140px;
     left: 40px;
     width: 8rem;
     height: 8rem;
@@ -77,7 +77,7 @@
 
 .arrowForward {
     position:fixed;
-    bottom: 100px;
+    bottom: 140px;
     right: 40px;
     width: 8rem;
     height: 8rem;
