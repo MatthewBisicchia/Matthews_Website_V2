@@ -20,18 +20,22 @@ const AboutPage = () => {
             <div className={styles.writing}>
 
                 <p>
-                    Hello! My name is Matthew Bisicchia. I am an engineer, tech enthusiast, son, grandson, and friend. I graduated from Rowan Univeristy in Glassboro, NJ, in May of 2022, with a major
-                    in Electrical and Computer Engineering and a minor in Computer Science. Feel free to check out my resume.
+                    Hello, & thanks for stopping by. My name is Matthew Bisicchia. I am an engineer, tech enthusiast, son, grandson, cousin, and friend. In May of 2022, I graduated from Rowan Univeristy in Glassboro, NJ, with a major
+                    in Electrical and Computer Engineering and a minor in Computer Science. Feel free to check out my resume for my work experience.
                 </p> 
 
                 <p>
                     Currently, I work as a Software Engineer at <a href='https://impulse-dynamics.com/'>Impulse Dynamics</a>, a medical device startup. I enjoy computer programming and building software applications, and also enjoy electronics engineering.
-                    I actively plan on working more in the hardware side as well. For software engineering, I have experience with tools/services such as
-                    AWS, Docker, Node.js, React.js, Redux, Javascript and Typescript, Java, C++, and HTML/CSS, to name a few. I am always open to learning new languages and tools. 
+                    I actively plan on working more in the hardware side; my focus right now is in software.
+                </p>
+                    
+                <p>
+                    For software engineering, I have experience with tools/services such as
+                    AWS, Docker, Node.js, React.js, Redux, Javascript and Typescript, Python, Java, C++, and HTML/CSS. I am open to continue learning more languages and tools. 
                 </p>
                 
                 <p>
-                    I programmed this website with React.js, and hosting it with a simple Node application.
+                    I programmed this website with React.js, and hosting it with a basic Node application.
                 </p>
 
                 <p>
