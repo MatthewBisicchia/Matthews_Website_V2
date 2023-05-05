@@ -26,6 +26,7 @@
 
 #text:hover {
     text-decoration: none;
+    transition: 0.5s;
     color: gold;
 }
 
