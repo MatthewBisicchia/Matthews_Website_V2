@@ -15,7 +15,7 @@ const AboutPage = () => {
 
             {/* <img src={matthew} id={styles.picture} /> */}
 
-            <div style={{ fontSize: '15px', fontFamily: 'Segoe UI', margin: '20px', fontWeight: 'bold', textAlign: 'center' }}> Click <a className={styles.link} href={resumePDF} without rel="noopener noreferrer" target="_blank"> here </a> to view my Resume.</div>
+            <div style={{ fontSize: '15px', fontFamily: 'Arial', margin: '20px', fontWeight: 'bold', textAlign: 'center' }}> Click <a className={styles.link} href={resumePDF} without rel="noopener noreferrer" target="_blank"> here </a> to view my Resume.</div>
 
             <div className={styles.writing}>
 
@@ -39,13 +39,13 @@ const AboutPage = () => {
                 </p>
 
                 <p>
-                    In my free time, I like being outside, walking, exercising/going to the gym, biking, playing piano, and spending time with family and friends. I love to cook (feel free to check out the Cooking tab of this site!).
+                    In my free time, I like being outside, walking, exercising/going to the gym, biking, playing piano, and spending time with family and friends. I love to cook (feel free to check out the Cooking tab of this site).
                     
                     And I have a love/hate (these days, mostly hate) relationship with yardwork/yard maintenance. 
                 </p>
                 <p>
                     I also enjoy DIY projects. In 2017, my grandfather and I installed hardwood floors in our house, and we also installed 
-                    trim/millwork throughout. I am so grateful for everything he has taught me!
+                    trim/millwork throughout. I am so grateful for everything he has taught me.
                 </p>
                 {/* <p>
                     I listen to pretty much all genres of music, and enjoy discovering new artists when I let Spotify just play randomly.

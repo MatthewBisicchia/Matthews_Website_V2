@@ -27,7 +27,7 @@ const CookingPage = () => {
 
             {/* <img src={matthew} id={styles.picture} /> */}
 
-            <p style={{ fontSize: '15px', fontFamily: 'Segoe UI', margin: '20px', fontWeight: 'bold', textAlign: 'center' }}>
+            <p style={{ fontSize: '15px', fontFamily: 'Arial', margin: '20px', fontWeight: 'bold', textAlign: 'center' }}>
                 Scroll down for some dishes that I have cooked!
             </p>
 
