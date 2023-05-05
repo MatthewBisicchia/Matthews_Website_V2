@@ -7,7 +7,7 @@ const BackBar = () => {
         <>
             <header id={styles.header}>
                 <div style={{color:'gold'}}>    
-                    <a id={styles.text} href='https://matthewbisicchia.github.io/my-website2.0/' ><ArrowBackIcon  id={styles.arrowBack} /> Back to Home Page</a>       
+                    <a id={styles.text} href='http://matthew-bisicchia.com/home' ><ArrowBackIcon  id={styles.arrowBack} /> Back to Home Page</a>       
                 </div>
             </header>     
         </>

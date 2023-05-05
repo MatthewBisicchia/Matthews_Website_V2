@@ -13,8 +13,8 @@ const HomePage = () => {
                         <img src={matthew} id={styles.profilePicture} />
                     </div>
 
-                    <a href="https://matthewbisicchia.github.io/my-website2.0/#/about" className={styles.buttonText}><div id={styles.homePageButton}>About</div></a>
-                    <a href="https://matthewbisicchia.github.io/my-website2.0/#/cooking" className={styles.buttonText}><div id={styles.homePageButton}>Cooking</div></a>
+                    <a href="http://matthew-bisicchia.com/about" className={styles.buttonText}><div id={styles.homePageButton}>About</div></a>
+                    <a href="http://matthew-bisicchia.com/cooking" className={styles.buttonText}><div id={styles.homePageButton}>Cooking</div></a>
                 </div>
 
                 <div id={styles.galleryLabel}>
