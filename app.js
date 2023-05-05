@@ -16,7 +16,9 @@ app.get('/*', (request, response) => {
     response.status(200).sendFile(path.join(__dirname + '/frontend/build/index.html'));
 });
 
-app.listen(3000, () => {
+const port = process.env.port || 3000;
+
+app.listen(port, () => {
 
     console.log('Listening . . .')
 });
