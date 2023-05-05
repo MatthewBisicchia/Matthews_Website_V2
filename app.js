@@ -26,10 +26,10 @@ app.use('/', express.static(path.join(__dirname, 'frontend/build')))
 
 // Set as Landing Page:
 app.get('/', (request, response) => {
-    response.status(200).redirect('/site/home');
+    response.status(200).redirect('/home');
 });
 
-app.get('/site/*', (request, response) => {
+app.get('/*', (request, response) => {
     response.status(200).sendFile(path.join(__dirname + '/frontend/build/index.html'));
 });
 
