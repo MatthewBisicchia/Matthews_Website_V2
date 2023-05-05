@@ -6,7 +6,7 @@ import CookingPage from './components/CookingPage.js';
 const routes = 
 [
     {
-        path: 'home', 
+        path: '', 
         element: <HomePage />
     },
     {
