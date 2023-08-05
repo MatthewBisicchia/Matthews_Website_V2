@@ -1,7 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.3ec0e087.css",
-    "main.js": "/static/js/main.5dac0aca.js",
+    "main.js": "/static/js/main.61314bbf.js",
+    "static/media/IMG-4464.png": "/static/media/IMG-4464.56526b72012d8f0fa0f5.png",
+    "static/media/IMG-4463.png": "/static/media/IMG-4463.9b425509c7b368838ebf.png",
     "static/media/320.png": "/static/media/320.58f28d169a6648891b60.png",
     "static/media/630.jpg": "/static/media/630.f10c16bd35837cf663a1.jpg",
     "static/media/175.jpg": "/static/media/175.40e34a3277680931391e.jpg",
@@ -30,7 +32,7 @@
     "static/media/Matthew_Bisicchia_Resume.pdf": "/static/media/Matthew_Bisicchia_Resume.5796c85d417e94a1ebd3.pdf",
     "static/media/615.jpg": "/static/media/615.de18d6e8aa8e2f18036c.jpg",
     "static/media/112.jpg": "/static/media/112.32bb4dffb60abf91ee23.jpg",
-    "static/media/585.png": "/static/media/585.597e4068de72eb51131c.png",
+    "static/media/585.png": "/static/media/585.23854db45cb0e2d2176f.png",
     "static/media/370.jpg": "/static/media/370.6d586e3587f997f092e9.jpg",
     "static/media/100.png": "/static/media/100.a8692bb31e38265b3764.png",
     "static/media/595.jpg": "/static/media/595.6290c58216844e3699cd.jpg",
@@ -58,10 +60,10 @@
     "static/media/114.jpg": "/static/media/114.f5c6eb9af61e707b57d5.jpg",
     "index.html": "/index.html",
     "main.3ec0e087.css.map": "/static/css/main.3ec0e087.css.map",
-    "main.5dac0aca.js.map": "/static/js/main.5dac0aca.js.map"
+    "main.61314bbf.js.map": "/static/js/main.61314bbf.js.map"
   },
   "entrypoints": [
     "static/css/main.3ec0e087.css",
-    "static/js/main.5dac0aca.js"
+    "static/js/main.61314bbf.js"
   ]
 }
