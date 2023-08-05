@@ -5,6 +5,8 @@ import BackBar from './BackBar.js';
 
 import image1 from '../images_food/IMG_2083.JPG';
 import image2 from '../images_food/IMG_3566.PNG';
+import spicyCreamyMusroomPasta1 from '../images_food/IMG-4463.png';
+import spicyCreamyMusroomPasta2 from '../images_food/IMG-4464.png';
 import mashedPotatoes from '../images_food/IMG_3563.PNG';
 import cod from '../images_food/IMG_3575.PNG';
 import sauceAndAsparagus from '../images_food/IMG_3576.PNG';
@@ -38,6 +40,12 @@ const CookingPage = () => {
                 </p>
                 <img src={image1} className={styles.image} />
                 <img src={image2} className={styles.image} />
+
+                <p>
+                    Spicy Creamy Musroom Pasta (credit to <a href='https://www.youtube.com/watch?v=HYBMGd3iw5w'>Sip and Feast</a>):
+                </p>
+                <img src={spicyCreamyMusroomPasta1} className={styles.image} />
+                <img src={spicyCreamyMusroomPasta2} className={styles.image} />
 
                 <p>
                     Homemade Mashed Potatoes from scratch:
