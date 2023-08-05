@@ -20,7 +20,7 @@ const AboutPage = () => {
             <div className={styles.writing}>
 
                 <p>
-                    Hello & thanks for stopping by. My name is Matthew Bisicchia. I am an engineer & tech enthusiast. In May of 2022, I graduated from Rowan Univeristy in Glassboro, NJ, with a major
+                    Hello & thanks for stopping by. My name is Matthew Bisicchia. I am an engineer & tech enthusiast. In May of 2022, I graduated from Rowan University in Glassboro, NJ, with a major
                     in Electrical and Computer Engineering and a minor in Computer Science. Feel free to check out my resume for my work experience.
                 </p> 
 
@@ -35,11 +35,11 @@ const AboutPage = () => {
                 </p>
                 
                 <p>
-                    I programmed this website with React.js, and hosting it with a basic Node application.
+                    I programmed this website with React.js, and hosting it with a basic Node application in Amazon Web Services.
                 </p>
 
                 <p>
-                    In my free time, I like being outside, walking, exercising/going to the gym, biking, playing piano, and spending time with family and friends. I love to cook (feel free to check out the Cooking tab of this site).
+                    In my free time, I like being outside, walking, exercising/going to the gym, biking, playing piano, and spending time with family and friends. I love to cook (feel free to check out the <a href='https://www.matthew-bisicchia.com/cooking'>Cooking</a> page of this site).
                     
                     And I have a love/hate (these days, mostly hate) relationship with yardwork/yard maintenance. 
                 </p>
