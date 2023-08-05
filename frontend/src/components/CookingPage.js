@@ -30,7 +30,7 @@ const CookingPage = () => {
             {/* <img src={matthew} id={styles.picture} /> */}
 
             <p style={{ fontSize: '15px', fontFamily: 'Arial', margin: '20px', fontWeight: 'bold', textAlign: 'center' }}>
-                Scroll down for some dishes that I have cooked!
+                Scroll down for some dishes that I have cooked.
             </p>
 
             <div className={styles.foods}>
@@ -64,7 +64,7 @@ const CookingPage = () => {
                 <img src={chickenAndSpinachStrudels} className={styles.image} />
 
                 <p>
-                    Pizza with Homemade Dough (very fun to make, like when playing with sand at beach as a kid):
+                    Pizza with Homemade Dough:
                 </p>
                 <img src={makingDough} className={styles.image} />
                 <img src={restingDough} className={styles.image} />

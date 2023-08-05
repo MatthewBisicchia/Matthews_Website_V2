@@ -21,11 +21,11 @@ const AboutPage = () => {
 
                 <p>
                     Hello & thanks for stopping by. My name is Matthew Bisicchia. I am an engineer & tech enthusiast. In May of 2022, I graduated from Rowan University in Glassboro, NJ, with a major
-                    in Electrical and Computer Engineering and a minor in Computer Science. Feel free to check out my resume for my work experience.
+                    in Electrical and Computer Engineering and a minor in Computer Science. Feel free to check out my resume linked above for my work experience.
                 </p> 
 
                 <p>
-                    Currently, I work as a Software Engineer at <a href='https://impulse-dynamics.com/'>Impulse Dynamics</a>, a medical device startup. I enjoy computer programming and building software applications, and also enjoy electronics engineering.
+                    Currently, I work as a Software Engineer at <a href='https://impulse-dynamics.com/'>Impulse Dynamics</a>, a medical device startup. Daily, I do computer programming, as well DevOps work in building software applications on a team with other engineers.
                     I actively plan on working more in the hardware side; my focus right now is in software.
                 </p>
                     
@@ -38,18 +38,22 @@ const AboutPage = () => {
                     I programmed this website with React.js, and hosting it with a basic Node application in Amazon Web Services.
                 </p>
 
-                <p>
+                {/* <p>
                     In my free time, I like being outside, walking, exercising/going to the gym, biking, playing piano, and spending time with family and friends. I love to cook (feel free to check out the <a href='https://www.matthew-bisicchia.com/cooking'>Cooking</a> page of this site).
                     
                     And I have a love/hate (these days, mostly hate) relationship with yardwork/yard maintenance. 
-                </p>
+                </p> */}
+
                 <p>
+                    I like to cook (check out the <a href='https://www.matthew-bisicchia.com/cooking'>Cooking</a> page of this site).
+                </p>
+                {/* <p>
                     I also enjoy DIY projects. In 2017, my grandfather and I installed hardwood floors in our house, and we also installed 
                     trim/millwork throughout. I am so grateful for everything he has taught me.
-                </p>
-                <p>
+                </p> */}
+                {/* <p>
                     I listen to pretty much all genres of music, and enjoy discovering new artists when I let Spotify just play randomly.
-                </p>
+                </p> */}
 
                 <br />
                 <br />
