@@ -17,9 +17,9 @@ const HomePage = () => {
                     <a href="https://www.matthew-bisicchia.com/cooking" className={styles.buttonText}><div id={styles.homePageButton}>Cooking</div></a>
                 </div>
 
-                <div id={styles.galleryLabel}>
+                {/* <div id={styles.galleryLabel}>
                     Gallery<br />(can scroll down, & click to enlarge a photo):
-                </div>
+                </div> */}
 
                 <Gallery/>
             </div>

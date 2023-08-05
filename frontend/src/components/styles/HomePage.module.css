@@ -18,12 +18,13 @@
     /* position: static; */
     /* display: flex; */
     padding: 60px;
-    height: 25vh;  
+    height: 30vh;  
     /* background-color: #0272b3; */
     /* background-color: #0e8834; */
     background-color: black;
     /* background-size: 100% auto; */
     /* border-bottom: 4px solid maroon; */
+    border-bottom: 4px solid maroon;
 }
 
 .buttonText {
@@ -365,7 +366,7 @@
         /* position: static; */
         /* display: flex; */
         padding: 60px;
-        height: 30vh;  
+        height: 25vh;  
         /* background-color: #0272b3; */
         /* background-color: #0e8834; */
         background-color: black;
