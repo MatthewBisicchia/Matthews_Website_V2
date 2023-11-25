@@ -5,6 +5,12 @@ import BackBar from './BackBar.js';
 
 import image1 from '../images_food/IMG_2083.JPG';
 import image2 from '../images_food/IMG_3566.PNG';
+import penneVodka from '../images_food/IMG_3997.jpg';
+import penneVodka2 from '../images_food/IMG_3995.jpg';
+import friedRice from '../images_food/IMG_3984.jpg';
+import dumplings1 from '../images_food/IMG_3980.jpg';
+import dumplings2 from '../images_food/IMG_3979.jpg';
+import drunkenNoodles from '../images_food/IMG_5078.jpg';
 import spicyCreamyMusroomPasta1 from '../images_food/IMG-4463.png';
 import spicyCreamyMusroomPasta2 from '../images_food/IMG-4464.png';
 import mashedPotatoes from '../images_food/IMG_3563.PNG';
@@ -40,6 +46,28 @@ const CookingPage = () => {
                 </p>
                 <img src={image1} className={styles.image} />
                 <img src={image2} className={styles.image} />
+
+                <p>
+                    Penne Vodka:
+                </p>
+                <img src={penneVodka} className={styles.image} />
+                <img src={penneVodka2} className={styles.image} />
+
+                <p>
+                    Thai Drunken Noodles:
+                </p>
+                <img src={drunkenNoodles} className={styles.image} />
+
+                <p>
+                    Fried Rice:
+                </p>
+                <img src={friedRice} className={styles.image} />
+
+                <p>
+                    Dumplings:
+                </p>
+                <img src={dumplings1} className={styles.image} />
+                <img src={dumplings2} className={styles.image} />
 
                 <p>
                     Spicy Creamy Musroom Pasta (credit to <a href='https://www.youtube.com/watch?v=HYBMGd3iw5w'>Sip and Feast</a>):
